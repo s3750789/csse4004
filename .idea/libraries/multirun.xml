@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="multirun">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/multirun/lib/multirun.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
